@@ -1,0 +1,41 @@
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.exe
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Substituir.resources
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe.config
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.exe
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.pdb
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.pdb
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Form1.resources
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Properties.Resources.resources
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Substituir.resources
+F:\Trabalhos Etec\TPA\C#\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csproj.GenerateResource.Cache
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe.config
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.exe
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.pdb
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.pdb
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Form1.resources
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Properties.Resources.resources
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Substituir.resources
+F:\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\bin\Debug\CaixaDeDialogo.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Form1.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.Substituir.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Form\CaixaDeDialogo\CaixaDeDialogo\obj\Debug\CaixaDeDialogo.pdb
